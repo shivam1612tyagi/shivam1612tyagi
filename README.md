@@ -23,7 +23,7 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
-## 💼 Work Experience
+## 💼 Work Experience || Wipro Technologies 
 
 **Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
 - Conducted exploratory data analysis and visualization for multiple projects.
