@@ -69,6 +69,8 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 
 I am always open to networking and collaborating on interesting projects. Feel free to reach out to me!
 
+
+![Visitor Count](https://komarev.com/ghpvc/?username=shivam1612tyagi&color=blue)
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=shivam1612tyagi.shivam1612tyagi)
 
 ---
