@@ -6,7 +6,9 @@
 
 🎓 **Data Analyst | Power BI Enthusiast | Python Developer**
 
-Welcome to my GitHub profile! I am passionate about data analysis, visualization, and predictive modeling. I love transforming data into actionable insights and creating interactive dashboards.
+Welcome to my GitHub profile! I am passionate about data analysis, visualization, and predictive modeling. I love transforming data into actionable insights and creating interactive dashboards. 
+Explore my repositories to see a variety of projects showcasing my skills in Python, Power BI, SQL, and more. From data cleaning and exploratory data analysis to creating interactive visualizations and predictive models, my projects reflect my dedication to leveraging data for impactful decision-making.
+
 
 ## 🔧 Technologies & Tools
 
@@ -16,13 +18,14 @@ Welcome to my GitHub profile! I am passionate about data analysis, visualization
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
 
 ## 💼 Work Experience
 
-- **Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
+**Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
 - Conducted exploratory data analysis and visualization for multiple projects.
 - Developed predictive models to forecast trends and improve decision-making.
 - Created and maintained Power BI dashboards, enhancing data accessibility for stakeholders.
@@ -36,11 +39,6 @@ Welcome to my GitHub profile! I am passionate about data analysis, visualization
 - Creation of Technical Design Document and Unit test Document.
 - Work on the Report and tables as per business requirements.
 
-## 📈 Pinned Projects
-
-[![Project1](https://github-readme-stats.vercel.app/api/pin/?username=shivam1612tyagi&repo=project1)](https://github.com/shivam1612tyagi/project1)
-[![Project2](https://github-readme-stats.vercel.app/api/pin/?username=shivam1612tyagi&repo=project2)](https://github.com/shivam1612tyagi/project2)
-[![Project3](https://github-readme-stats.vercel.app/api/pin/?username=shivam1612tyagi&repo=project3)](https://github.com/shivam1612tyagi/project3)
 
 ## 📊 GitHub Stats
 
@@ -62,24 +60,7 @@ Welcome to my GitHub profile! I am passionate about data analysis, visualization
 
 - Advanced DAX for Power BI
 - Machine Learning Algorithms
-
-
-## 🌟 Featured Projects
-
-### Project 1: Data Visualization Dashboard
-- **Description:** An interactive Power BI dashboard that visualizes sales data.
-- **Technologies:** Power BI, SQL, Python
-- [View Repository](https://github.com/shivam1612tyagi/project1)
-
-### Project 2: Predictive Modeling for Customer Churn
-- **Description:** A machine learning model to predict customer churn.
-- **Technologies:** Python, Pandas, scikit-learn
-- [View Repository](https://github.com/shivam1612tyagi/project2)
-
-### Project 3: Exploratory Data Analysis on Retail Data
-- **Description:** Comprehensive EDA on retail dataset to uncover insights.
-- **Technologies:** Python, Pandas, seaborn, matplotlib
-- [View Repository](https://github.com/shivam1612tyagi/project3)
+- PL-SQL
 
 ## 🤝 Let's Connect
 
