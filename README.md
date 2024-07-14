@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome! 👋
 
 ![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Shivam+Tyagi%27s+GitHub+Profile)
 
@@ -19,6 +19,22 @@ Welcome to my GitHub profile! I am passionate about data analysis, visualization
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)
+
+## 💼 Work Experience
+
+- **Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
+- Conducted exploratory data analysis and visualization for multiple projects.
+- Developed predictive models to forecast trends and improve decision-making.
+- Created and maintained Power BI dashboards, enhancing data accessibility for stakeholders.
+- Leveraged Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly) for data manipulation and analysis.
+- Utilized SQL for database querying and data extraction.
+
+
+**Project Engineer at Wipro, Pune** ( Sept 2023-till)
+- Proactively communicate with customers to provide updates on ongoing support cases, ensuring transparency and building trust.
+- Effectively managed and prioritized support tickets, ensuring timely and accurate problem resolution.
+- Creation of Technical Design Document and Unit test Document.
+- Work on the Report and tables as per business requirements.
 
 ## 📈 Pinned Projects
 
@@ -47,13 +63,6 @@ Welcome to my GitHub profile! I am passionate about data analysis, visualization
 - Advanced DAX for Power BI
 - Machine Learning Algorithms
 
-## 💼 Work Experience
-
-- **Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
-  - Exploratory data analysis
-  - Data visualization
-  - Predictive modeling
-  - Power BI dashboard development
 
 ## 🌟 Featured Projects
 
