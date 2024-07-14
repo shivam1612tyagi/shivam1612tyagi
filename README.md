@@ -39,11 +39,6 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 - Creation of Technical Design Document and Unit test Document.
 - Work on the Report and tables as per business requirements.
 
-
-## 📊 GitHub Stats
-
-![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam1612tyagi&show_icons=true&theme=radical)
-
 ## 📫 How to Reach Me
 
 - **Email:** [shivam1612tyagi@gmail.com](mailto:shivam1612tyagi@gmail.com)
@@ -61,6 +56,14 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 - Advanced DAX for Power BI
 - Machine Learning Algorithms
 - PL-SQL
+
+
+## 📊 GitHub Stats
+
+![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shivam1612tyagi&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shivam1612tyagi&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivam1612tyagi&theme=radical)
+
 
 ## 🤝 Let's Connect
 
