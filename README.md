@@ -4,7 +4,7 @@
 
 # 👋 Hi there, I'm Shivam Tyagi!
 
-🎓 **Data Analyst | Power BI Enthusiast | Python Developer**
+🎓 **Python Developer | Data Analyst | Power BI Enthusiast |**
 
 Welcome to my GitHub profile! I am passionate about data analysis, visualization, and predictive modeling. I love transforming data into actionable insights and creating interactive dashboards. 
 Explore my repositories to see a variety of projects showcasing my skills in Python, Power BI, SQL, and more. From data cleaning and exploratory data analysis to creating interactive visualizations and predictive models, my projects reflect my dedication to leveraging data for impactful decision-making.
