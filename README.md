@@ -29,7 +29,7 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 
 ## 💼 Work Experience || Wipro Technologies 
 
-**Project Engineer at Wipro, Pune** (Aug 2022 - Sept 2023)
+**Project Engineer at Wipro** (May 2022 - Sept 2023)
 - Conducted exploratory data analysis and visualization for multiple projects.
 - Developed predictive models to forecast trends and improve decision-making.
 - Created and maintained Power BI dashboards, enhancing data accessibility for stakeholders.
@@ -37,7 +37,7 @@ Explore my repositories to see a variety of projects showcasing my skills in Pyt
 - Utilized SQL for database querying and data extraction.
 
 
-**Project Engineer at Wipro, Pune** ( Sept 2023-till)
+**Project Engineer at Wipro** ( Sept 2023-till)
 - Proactively communicate with customers to provide updates on ongoing support cases, ensuring transparency and building trust.
 - Effectively managed and prioritized support tickets, ensuring timely and accurate problem resolution.
 - Creation of Technical Design Document and Unit test Document.
