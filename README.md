@@ -1,7 +1,5 @@
 ## Welcome! 👋
 
-![Profile Banner](https://via.placeholder.com/1200x300.png?text=Welcome+to+Shivam+Tyagi%27s+GitHub+Profile)
-
 # 👋 Hi there, I'm Shivam Tyagi!
 
 🎓 **Python Developer | Data Analyst | Power BI Enthusiast |**
